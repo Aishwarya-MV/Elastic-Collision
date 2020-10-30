@@ -1,4 +1,4 @@
 # Elastic-Collision
 
 Attempt to simulate an elastic collision.
-Still a work in progress.
+It's still a work in progress...
